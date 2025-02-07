@@ -1,0 +1,33 @@
+----------------NOTES---------------
+npm means node package manager
+For setup Compile the code given in github
+Now run "npx create-react-app ProjectName" to install library
+after this run "npm create vite@latest"
+    enter project ProjectName
+    choose react
+    choose JavaScript
+    cd 01basicreact
+    ls
+    npm i
+completed
+
+Notes Regarding Reactes
+Reactes is main application it can not run alone 
+react version are of two type
+    1. React-dom -> connector of react talk to dom or browser, it's a web application
+    2. React-native -> if you want work with mobile use React-native 
+
+How to run the React application ?
+    goto folder using "cd folderName"
+    ls to check the packages what you have
+    give command "npm run start"
+Vite app ->
+    "cd 01basicvite" cd command for choosing folder
+    "npm run dev"   
+    ls
+    "npm run dev"
+Start time 42:50
+React is a single page application
+to refresh ">relode window" in serach box to fix the problem
+
+---------START 1:09:12------
