@@ -31,3 +31,9 @@ React is a single page application
 to refresh ">relode window" in serach box to fix the problem
 
 ---------START 1:09:12------
+
+Creating custom React
+first connect js with html using Script tag
+make an object including the work you want to do
+know use document.querySelector(#id)
+use a function name customRender(element, place where to post);
