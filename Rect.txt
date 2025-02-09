@@ -37,3 +37,7 @@ first connect js with html using Script tag
 make an object including the work you want to do
 know use document.querySelector(#id)
 use a function name customRender(element, place where to post);
+We learn the basics of react and working with react
+
+---------START 1:40:46----------
+Revision of Reacts learning
