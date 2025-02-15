@@ -60,7 +60,7 @@ function App() {
   )
 }
 using react ->
-    function App() {
+  function App() {
   const [counter, setCounter]= useState(1)
 
   // let counter = 15
@@ -76,3 +76,12 @@ Method ->
     setCounter(counter+1)
 Callback ->
     setCounter((prevCounter) => prevCounter + 1)
+
+---------2:03:00 start-------
+
+To install Tailwind css Run command
+   npm install -D tailwindcss@3 postcss autoprefixer
+   npx tailwindcss init -p
+
+tailwind syntax
+  <h1 className='text-3xl bg-green-500 p-3 rounded-md'>Vite with tailwind</h1>
